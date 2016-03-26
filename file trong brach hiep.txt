@@ -1,6 +1,2 @@
 fgbfnhgcnf
-<<<<<<< HEAD
 hiep chinh trong brach cua hiep
-=======
-111111111111111111111
->>>>>>> origin/testinghiep
