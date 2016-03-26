@@ -1,2 +1,7 @@
 bo vua sua file day
+<<<<<<< HEAD
 file nay la tu brach cua hung nhe
+=======
+abn
+file nay la brach master
+>>>>>>> refs/remotes/origin/master
