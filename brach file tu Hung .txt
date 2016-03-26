@@ -1,7 +1,0 @@
-bo vua sua file day
-<<<<<<< HEAD
-abc
-=======
-abn
-file nay la brach master
->>>>>>> refs/remotes/origin/master
