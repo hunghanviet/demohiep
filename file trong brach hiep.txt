@@ -1,2 +1,6 @@
 fgbfnhgcnf
+<<<<<<< HEAD
 full request tu brach cua hiep
+=======
+sua xem co protect duoc khong nao
+>>>>>>> refs/remotes/origin/master
