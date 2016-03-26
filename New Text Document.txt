@@ -1,3 +1,5 @@
-gsdgdfsgsfdfhbdf
-
-sua chua file tu may Hung
+<<<<<<< HEAD
+sua file tu brach cua Hung tren may Hiep
+=======
+sua file tu brach cua hung
+>>>>>>> origin/hung-brach
