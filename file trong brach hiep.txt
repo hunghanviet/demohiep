@@ -4,3 +4,5 @@ full request tu brach cua hiep
 =======
 sua xem co protect duoc khong nao
 >>>>>>> refs/remotes/origin/master
+
+sua lan 2 day nay xem co bao ve duoc khong
