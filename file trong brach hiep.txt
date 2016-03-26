@@ -1,6 +1,10 @@
 fgbfnhgcnf
 <<<<<<< HEAD
+<<<<<<< HEAD
 t sua tren may tao
 =======
 111111111111111111111
+>>>>>>> refs/remotes/origin/master
+=======
+hiep chinh trong brach cua hiep
 >>>>>>> refs/remotes/origin/master
